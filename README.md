@@ -235,9 +235,8 @@ export function ThankYouPage({ userData, onReset }: ThankYouPageProps) {
 }
 ```
 # OUTPUT:
-<img width="1409" height="854" alt="image" src="https://github.com/user-attachments/assets/968d2bb7-99cb-49fd-ab3e-e38561676af3" />
-<img width="1271" height="845" alt="image" src="https://github.com/user-attachments/assets/4fc77c3e-28bb-46ed-bd13-02fb828a3d26" />
-<img width="1399" height="843" alt="image" src="https://github.com/user-attachments/assets/3f5c17a6-da61-446f-924a-1d8262abbee7" />
+<img width="1918" height="1075" alt="image" src="https://github.com/user-attachments/assets/60a69f9c-2fdf-4f89-a973-c5671c8bdadc" />
+
 
 
 
